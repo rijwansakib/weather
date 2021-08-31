@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/weather.jpg);
+}
+.result{
+    margin-top: 150px;
+}
+.weather{
+    display: flex;
+
+}
